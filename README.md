@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Re Gin (정래진)[![Email](https://img.shields.io/badge/Email-your.email%40domain.com-blue?style=flat-square&logo=gmail)](ray971125@naver.com)[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=I49ji_0AAAAJ&hl=ko)
+# 👋 Hi, I'm Re Gin (정래진)
+[![Email](https://img.shields.io/badge/Email-your.email%40domain.com-blue?style=flat-square&logo=gmail)](ray971125@gmail.com)[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=I49ji_0AAAAJ&hl=ko)
 
 🧪 **Computational Chemist | Drug Discovery Researcher | Ph.D. Student (CNU)**  
 💧 *Topological Water Network (TWN) • Kinase Inhibitor Design • Molecular Modeling*
