@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Re Gin (정래진)
 
-🧪 **Computational Chemist | Drug Discovery Researcher**  
+🧪 **Computational Chemist | Drug Discovery Researcher | Ph.D. Student (CNU)**  
 💧 *Topological Water Network (TWN) • Kinase Inhibitor Design • Molecular Modeling*
 
 ---
