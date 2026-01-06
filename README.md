@@ -2,6 +2,8 @@
 
 🧪 **Computational Chemist | Drug Discovery Researcher | Ph.D. Student (CNU)**  
 💧 *Topological Water Network (TWN) • Kinase Inhibitor Design • Molecular Modeling*
+📫 **Email**: *ray971125@naver.com*
+🧰 **Google Scholar**: *https://scholar.google.com/citations?user=I49ji_0AAAAJ&hl=ko*
 
 ---
 
@@ -44,30 +46,3 @@
 - PostgreSQL (compound & bioactivity DB)
 - Linux (Ubuntu, Rocky)
 
----
-
-## 📌 Selected Projects
-
-### 🧩 TWN-FG
-> TWN-based fragment growing method
-  
-### 🔗 TWN-Align
-> TWN-based molecular overlay & pose evaluation  
-
-### 💧 TWN-Lib
-> Library of pre-calculated topological water network patterns  
-
----
-
-## 📈 Current Focus
-
-- Bridging **water topology → ligand design rules**
-- Moving beyond free-energy–heavy methods
-- Making hydration-aware drug design **practical & scalable**
-
----
-
-## 📫 Contact
-
-- Email: ray971125@naver.com
-- Phone: +82) 42-821-7331
