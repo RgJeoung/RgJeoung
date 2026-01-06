@@ -5,7 +5,6 @@
 🧪 **Computational Chemist | Drug Discovery Researcher | Ph.D. Student (CNU)**  
 💧 *Topological Water Network (TWN) • Kinase Inhibitor Design • Molecular Modeling*
 
----
 
 ## 🔬 Research Interests
 
